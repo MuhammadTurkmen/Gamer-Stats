@@ -52,6 +52,7 @@ section {
     align-items: center;
     gap: 1.8rem;
     border-radius: .9rem;
+    padding: 3.5em 0 ;
     
 }
 
@@ -63,4 +64,11 @@ img {
 p {
     font-size: 1.8rem;
     text-transform: uppercase;
+}
+
+.gamer-name {
+    font-size: 2.2rem;
+    color: #0E53CA;
+    font-weight: 700;
+
 }
