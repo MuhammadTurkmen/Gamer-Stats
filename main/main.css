@@ -24,12 +24,15 @@ section {
         "first first second"
         "third fourth fifth ";
     gap: 2.6rem;
-    padding-right: 0;
+    
+    grid-template-columns: 1fr 1fr 1fr;
+
 
 }
 
 .first-div{
     grid-area: first;
+    width: 470px;
 }
 
 .second-div {
