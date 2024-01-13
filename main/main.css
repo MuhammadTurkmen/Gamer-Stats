@@ -23,6 +23,7 @@ section {
     grid-template-areas: 
         "first first second"
         "third fourth fifth ";
+    gap: 2.6rem;
 }
 
 .first-div{
@@ -57,4 +58,8 @@ section {
 img {
     width: 48px;
     margin-left: 1.8rem;
+}
+
+p {
+    font-size: 1.8rem;
 }
