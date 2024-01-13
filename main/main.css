@@ -37,10 +37,12 @@ section {
 
 .second-div {
     grid-area: second;
+    /* gap: 1rem; */
 }
 
 .third {
     grid-area: third;
+
 }
 
 .fourth {
@@ -89,4 +91,8 @@ h1 {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+.third-div {
+    padding-left: 2.8rem;
 }
