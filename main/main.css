@@ -51,9 +51,10 @@ section {
     align-items: center;
     gap: 1.8rem;
     
+    
 }
 
 img {
     width: 48px;
-    
+    margin-left: 1.8rem;
 }
