@@ -24,3 +24,30 @@ section {
         "first first second"
         "third fourth fifth ";
 }
+
+.first-div{
+    grid-area: first;
+}
+
+.second-div {
+    grid-area: second;
+}
+
+.third {
+    grid-area: third;
+}
+
+.fourth {
+    grid-area: fourth;
+}
+
+.fifth {
+    grid-area: fifth;
+}
+
+.first-div {
+    background-color: #fff;
+    display: flex;
+    
+}
+
