@@ -37,7 +37,7 @@ section {
 
 .second-div {
     grid-area: second;
-    /* gap: 1rem; */
+    gap: 1rem;
 }
 
 .third {
