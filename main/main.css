@@ -17,4 +17,10 @@ section {
     width: 706px;
     height: 277px;
     margin: 20rem auto;
+    padding: 2.5em;
+    border-radius: 1.2rem;
+    display: grid;
+    grid-template-areas: 
+        "first first second"
+        "third fourth fifth ";
 }
