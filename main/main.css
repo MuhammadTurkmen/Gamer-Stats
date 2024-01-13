@@ -48,6 +48,12 @@ section {
 .first-div {
     background-color: #fff;
     display: flex;
+    align-items: center;
+    gap: 1.8rem;
     
 }
 
+img {
+    width: 48px;
+    
+}
